@@ -13,7 +13,7 @@ weitere Infos folgen...
       Versorgungsspannung
     </td>
     <td colspan="2">
-      7V ... 18 V
+      6V ... 16 V
     </td>
   </tr>
   <tr>
@@ -21,7 +21,7 @@ weitere Infos folgen...
       Ruhestrom
     </td>
     <td colspan="2">
-      ca. 7mA
+      ca. 5mA
     </td>
 </tr>
   <tr>
