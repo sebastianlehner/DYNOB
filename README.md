@@ -1,5 +1,5 @@
 # dynamic oil buzzer REV1c  
-#### DE - [Bedienungsanleitung](https://github.com/sebastianlehner/DYNOB/blob/main/dyn_oil_buzzer_REV1c_DE.pdf)
+#### DE - [Bedienungsanleitung](https://github.com/sebastianlehner/DYNOB/blob/main/dynamic_oil_buzzer_REV1c_DE.pdf)
 
 #### Funktionsübersicht / Einbauanleitung - [https://youtu.be/VGgJPHZ6h68](https://youtu.be/VGgJPHZ6h68)
 <img width="450" height="450" alt="dyn_oil_buzzer_REV1c_Uebersicht" src="https://github.com/user-attachments/assets/0a5fd85c-f90b-420c-9ced-49a2e3d91475" />
