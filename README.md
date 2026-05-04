@@ -18,7 +18,7 @@ Bei Öldruck 1-Verlust blinkt die LED sofort. Liegt ein anderer Fehler vor, wird
 ### Vorteile:
 
 - plug & play, ersetzt alle alten Platinen-Versionen
-- für alle Diesel- und Benzin-Motoren
+- für alle Diesel- und Benzin-Motoren (4,5,6 und 8 Zylinder)
 - Lernmodus für nicht standardmäßige Riemenübersetzungen
 - erkennt Keilriemenriss bei Diesel-Motoren (Drehzahl-Verlust bei vorhandenem Öldruck 2)
 
