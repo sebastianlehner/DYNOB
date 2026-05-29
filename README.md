@@ -1,9 +1,10 @@
-# dynamic oil buzzer REV1c  
-#### DE - [Bedienungsanleitung](https://github.com/sebastianlehner/DYNOB/blob/main/dynamic_oil_buzzer_REV1c_DE.pdf)
-#### EN - [manual](https://github.com/sebastianlehner/DYNOB/blob/main/dynamic_oil_buzzer_REV1c_EN.pdf)  
+# dynamic oil buzzer REV1d
+  
+#### DE - [Bedienungsanleitung](https://github.com/sebastianlehner/DYNOB/blob/main/dynamic_oil_buzzer_REV1d_DE.pdf)
+#### EN - [manual](https://github.com/sebastianlehner/DYNOB/blob/main/dynamic_oil_buzzer_REV1d_EN.pdf)  
 
 #### Funktionsübersicht / Einbauanleitung - [https://youtu.be/VGgJPHZ6h68](https://youtu.be/VGgJPHZ6h68)
-<img width="450" height="450" alt="dyn_oil_buzzer_REV1c_Uebersicht" src="https://github.com/user-attachments/assets/0a5fd85c-f90b-420c-9ced-49a2e3d91475" />
+<img width="450" height="450" alt="dyn_oil_buzzer_REV1d_Uebersicht" src="https://github.com/user-attachments/assets/c9ba2301-ec27-43f6-be9d-d74610d9175b" />
 
 Diese Platine dient als **dynamische Öldruck-Überwachung** für Diesel- und Benzin-Motoren.  
 Bei Überschreitung von **2050 U/min** wird der Öldruck 2 überprüft (ist inaktiv bei Unterschreitung von 2000 U/min).  
@@ -96,3 +97,6 @@ Bei Öldruck 1-Verlust blinkt die LED sofort. Liegt ein anderer Fehler vor, wird
 251 919 253 J  
 251 919 253 K  
 251 919 253 L  
+
+### changelog:
+**REV1d - ab 03.06.2026:** Funktion identisch zu REV1c, zusätzliche Bauteile wurden auf der Platine untergebracht (händisches Löten fällt weg)
