@@ -1,9 +1,9 @@
-# dynamic oil buzzer REV1c  
-#### EN - [manual](https://github.com/sebastianlehner/DYNOB/blob/main/dynamic_oil_buzzer_REV1c_EN.pdf)
-#### DE - [Bedienungsanleitung](https://github.com/sebastianlehner/DYNOB/blob/main/dynamic_oil_buzzer_REV1c_DE.pdf)  
+# dynamic oil buzzer REV1d  
+#### EN - [manual](https://github.com/sebastianlehner/DYNOB/blob/main/dynamic_oil_buzzer_REV1d_EN.pdf)
+#### DE - [Bedienungsanleitung](https://github.com/sebastianlehner/DYNOB/blob/main/dynamic_oil_buzzer_REV1d_DE.pdf)  
 
 #### function overview / mounting instructions - [https://youtu.be/VGgJPHZ6h68](https://youtu.be/VGgJPHZ6h68)
-<img width="450" height="450" alt="dyn_oil_buzzer_REV1c_Uebersicht" src="https://github.com/user-attachments/assets/0a5fd85c-f90b-420c-9ced-49a2e3d91475" />
+<img width="450" height="450" alt="dyn_oil_buzzer_REV1d_Uebersicht" src="https://github.com/user-attachments/assets/c9ba2301-ec27-43f6-be9d-d74610d9175b" />
 
 This circuit board serves as a **dynamic oil pressure monitor** for diesel and benzin engines.  
 When the engine speed exceeds **2050 RPM**, oil pressure 2 is checked (this function is inactive when the engine speed is below 2000 RPM).  
@@ -96,3 +96,6 @@ If oil pressure 1 is lost, the LED flashes immediately. If another fault occurs,
 251 919 253 J  
 251 919 253 K  
 251 919 253 L  
+
+### changelog:
+**REV1d - starting 03.06.2026:** Functionality identical to REV1c, additional components have been added to the circuit board (manual soldering is no longer required)
