@@ -100,3 +100,5 @@ Bei Öldruck 1-Verlust blinkt die LED sofort. Liegt ein anderer Fehler vor, wird
 
 ### changelog:
 **REV1d - ab 03.06.2026:** Funktion identisch zu REV1c, zusätzliche Bauteile wurden auf der Platine untergebracht (händisches Löten fällt weg)
+
+251919064A 251919064B 251919064C 251919064D 251919064G 321919064M 251919253F 251919253G 251919253H 251919253J 251919253K 251919253L  
