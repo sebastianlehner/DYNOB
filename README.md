@@ -10,7 +10,8 @@ Diese Platine dient als **dynamische Öldruck-Überwachung** für Diesel- und Be
 Bei Überschreitung von **2050 U/min** wird der Öldruck 2 überprüft (ist inaktiv bei Unterschreitung von 2000 U/min).  
 Weiters piepst/blinkt die Platine bei Drehzahl-Verlust trotz vorhandenem Öldruck 2 (Keilriemenriss bei Diesel-Motoren).  
   
-Bei Öldruck 1-Verlust blinkt die LED sofort. Liegt ein anderer Fehler vor, wird dies <ins>nach 5 Sekunden</ins> signalisiert (LED und Buzzer).
+Bei Öldruck 1-Verlust blinkt die LED sofort. Liegt ein anderer Fehler vor, wird dies <ins>nach 2 Sekunden</ins> signalisiert (LED und Buzzer).  
+Wird eine Drehzahl von <ins>über 9000 U/min</ins> detektiert, zirpt der Buzzer und die LED leuchtet dauerhaft ! (falsche Motoreinstellung/Übersetzung)
 <ins> </ins>
 ### Kompatibilität:
 **VW T3, Golf 1, Golf 2, Polo 2, Caddy 1, Jetta 2, Passat B2 und Scirocco 2**
@@ -100,5 +101,6 @@ Bei Öldruck 1-Verlust blinkt die LED sofort. Liegt ein anderer Fehler vor, wird
 
 ### changelog:
 **REV1d - ab 03.06.2026:** Funktion identisch zu REV1c, zusätzliche Bauteile wurden auf der Platine untergebracht (händisches Löten fällt weg)
+**REV1d - ab 21.06.2026:** Alarm-Wartezeit von 5 Sek auf 2 Sek reduziert, über 9000 U/min zirpt der Buzzer aufgrund falscher Motoreinstellung/Übersetzung
 
 251919064A 251919064B 251919064C 251919064D 251919064G 321919064M 251919253F 251919253G 251919253H 251919253J 251919253K 251919253L  
