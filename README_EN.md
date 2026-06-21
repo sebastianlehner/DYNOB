@@ -9,7 +9,8 @@ This circuit board serves as a **dynamic oil pressure monitor** for diesel and b
 When the engine speed exceeds **2050 RPM**, oil pressure 2 is checked (this function is inactive when the engine speed is below 2000 RPM).  
 Furthermore, the circuit board beeps and flashes if the engine speed is lost despite oil pressure 2 being present (V-belt failure in diesel engines).  
 
-If oil pressure 1 is lost, the LED flashes immediately. If another fault occurs, this is signaled <ins>after 5 seconds</ins> (LED and buzzer).
+If oil pressure 1 is lost, the LED flashes immediately. If another fault occurs, this is signaled <ins>after 2 seconds</ins> (LED and buzzer).  
+If a speed <ins>above 9000 rpm</ins> is detected, the buzzer will beep and the LED will stay on! (incorrect motor setting/gear ratio)
 <ins> </ins>
 ### compatibility:
 **VW T3, Golf 1, Golf 2, Polo 2, Caddy 1, Jetta 2, Passat B2 und Scirocco 2**
@@ -98,4 +99,5 @@ If oil pressure 1 is lost, the LED flashes immediately. If another fault occurs,
 251 919 253 L  
 
 ### changelog:
-**REV1d - starting 03.06.2026:** Functionality identical to REV1c, additional components have been added to the circuit board (manual soldering is no longer required)
+**REV1d - starting June 03, 2026:** Functionality identical to REV1c, additional components have been added to the circuit board (manual soldering is no longer required)  
+**REV1d - starting June 21, 2026:** Alarm delay reduced from 5 seconds to 2 seconds, above 9000 rpm the buzzer beeps due to incorrect motor settings or gear ratio
