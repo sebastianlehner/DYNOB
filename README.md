@@ -4,6 +4,7 @@
 #### EN - [manual](https://github.com/sebastianlehner/DYNOB/blob/main/dynamic_oil_buzzer_REV1d_EN.pdf)  
 
 #### Funktionsübersicht / Einbauanleitung - [https://youtu.be/VGgJPHZ6h68](https://youtu.be/VGgJPHZ6h68)
+#### Lernmodus - [https://youtu.be/bumlYxhFiTA](https://youtu.be/bumlYxhFiTA)
 <img width="450" height="450" alt="dyn_oil_buzzer_REV1d_Uebersicht" src="https://github.com/user-attachments/assets/c9ba2301-ec27-43f6-be9d-d74610d9175b" />
 
 Diese Platine dient als **dynamische Öldruck-Überwachung** für Diesel- und Benzin-Motoren.  
