@@ -7,7 +7,7 @@
 #### Lernmodus - [https://youtu.be/bumlYxhFiTA](https://youtu.be/bumlYxhFiTA)
 <img width="450" height="450" alt="dyn_oil_buzzer_REV1d_Uebersicht" src="https://github.com/user-attachments/assets/c9ba2301-ec27-43f6-be9d-d74610d9175b" />
 
-Diese Platine dient als **dynamische Öldruck-Überwachung** für Diesel- und Benzin-Motoren.  
+Diese Platine dient als **dynamische Öldruck-Überwachung** (Öldruckkontrolle) für Diesel- und Benzin-Motoren.  
 Bei Überschreitung von **2050 U/min** wird der Öldruck 2 überprüft (ist inaktiv bei Unterschreitung von 2000 U/min).  
 Weiters piepst/blinkt die Platine bei Drehzahl-Verlust trotz vorhandenem Öldruck 2 (Keilriemenriss bei Diesel-Motoren).  
   
