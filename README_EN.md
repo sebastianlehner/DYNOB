@@ -4,6 +4,9 @@
 
 #### function overview / mounting instructions - [https://youtu.be/VGgJPHZ6h68](https://youtu.be/VGgJPHZ6h68)
 #### learning mode - [https://youtu.be/bumlYxhFiTA](https://youtu.be/bumlYxhFiTA)
+
+##### further information and inquiries: bastlkastl@gmx.at
+
 <img width="450" height="450" alt="dyn_oil_buzzer_REV1d_Uebersicht" src="https://github.com/user-attachments/assets/c9ba2301-ec27-43f6-be9d-d74610d9175b" />
 
 This circuit board serves as a **dynamic oil pressure monitor** for diesel and benzin engines.  
