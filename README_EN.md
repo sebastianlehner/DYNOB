@@ -7,7 +7,7 @@
 
 ##### further information and inquiries: bastlkastl@gmx.at
 
-<img width="450" height="450" alt="dyn_oil_buzzer_REV1d_Uebersicht" src="https://github.com/user-attachments/assets/c9ba2301-ec27-43f6-be9d-d74610d9175b" />
+<img width="450" height="450" alt="dynamic_oil_buzzer_REV1d_F" src="https://github.com/user-attachments/assets/d35fa3a1-b487-4bad-a000-8ebb54ded9c0" />
 
 This circuit board serves as a **dynamic oil pressure monitor** for diesel and benzin engines.  
 When the engine speed exceeds **2050 RPM**, oil pressure 2 is checked (this function is inactive when the engine speed is below 2000 RPM).  
