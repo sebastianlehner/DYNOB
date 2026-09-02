@@ -8,7 +8,7 @@
 
 ##### Infos und Anfragen: bastlkastl@gmx.at
 
-<img width="450" height="450" alt="dyn_oil_buzzer_REV1d_Uebersicht" src="https://github.com/user-attachments/assets/c9ba2301-ec27-43f6-be9d-d74610d9175b" />
+<img width="450" height="450" alt="dynamic_oil_buzzer_REV1d_F" src="https://github.com/user-attachments/assets/d35fa3a1-b487-4bad-a000-8ebb54ded9c0" />
 
 Diese Platine dient als **dynamische Öldruckkontrolle** für Diesel- und Benzin-Motoren.  
 Bei Überschreitung von **2050 U/min** wird der Öldruck 2 überprüft (ist inaktiv bei Unterschreitung von 2000 U/min).  
