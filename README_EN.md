@@ -93,7 +93,6 @@ If a speed <ins>above 9000 rpm</ins> is detected, the buzzer will beep and the L
 251 919 064 C  
 251 919 064 D  
 251 919 064 G  
-321 919 064 M  
   
 251 919 253 F  
 251 919 253 G  
@@ -102,6 +101,14 @@ If a speed <ins>above 9000 rpm</ins> is detected, the buzzer will beep and the L
 251 919 253 K  
 251 919 253 L  
 
+321 919 064 M  
+321 919 064 N  
+321 919 064 L  
+321 919 064 J  
+321 919 064 P  
+
 ### changelog:
 **REV1d - starting June 03, 2026:** Functionality identical to REV1c, additional components have been added to the circuit board (manual soldering is no longer required)  
 **REV1d - starting June 21, 2026:** Alarm delay reduced from 5 seconds to 2 seconds, above 9000 rpm the buzzer beeps due to incorrect motor settings or gear ratio
+
+251919064A 251919064B 251919064C 251919064D 251919064G 321919064M 251919253F 251919253G 251919253H 251919253J 251919253K 251919253L 321919064N 321919064L 321919064J 321919064P  
