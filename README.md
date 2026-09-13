@@ -94,7 +94,6 @@ Wird eine Drehzahl von <ins>über 9000 U/min</ins> detektiert, zirpt der Buzzer 
 251 919 064 C  
 251 919 064 D  
 251 919 064 G  
-321 919 064 M  
   
 251 919 253 F  
 251 919 253 G  
@@ -103,8 +102,14 @@ Wird eine Drehzahl von <ins>über 9000 U/min</ins> detektiert, zirpt der Buzzer 
 251 919 253 K  
 251 919 253 L  
 
+321 919 064 M  
+321 919 064 N  
+321 919 064 L  
+321 919 064 J  
+321 919 064 P  
+
 ### changelog:
 **REV1d - ab 03.06.2026:** Funktion identisch zu REV1c, zusätzliche Bauteile wurden auf der Platine untergebracht (händisches Löten fällt weg)  
 **REV1d - ab 21.06.2026:** Alarm-Wartezeit von 5 Sek auf 2 Sek reduziert, über 9000 U/min zirpt der Buzzer aufgrund falscher Motoreinstellung/Übersetzung
 
-251919064A 251919064B 251919064C 251919064D 251919064G 321919064M 251919253F 251919253G 251919253H 251919253J 251919253K 251919253L  
+251919064A 251919064B 251919064C 251919064D 251919064G 321919064M 251919253F 251919253G 251919253H 251919253J 251919253K 251919253L 321919064N 321919064L 321919064J 321919064P  
