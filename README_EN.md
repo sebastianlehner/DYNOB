@@ -112,3 +112,5 @@ If a speed <ins>above 9000 rpm</ins> is detected, the buzzer will beep and the L
 **REV1d - starting June 21, 2026:** Alarm delay reduced from 5 seconds to 2 seconds, above 9000 rpm the buzzer beeps due to incorrect motor settings or gear ratio
 
 251919064A 251919064B 251919064C 251919064D 251919064G 321919064M 251919253F 251919253G 251919253H 251919253J 251919253K 251919253L 321919064N 321919064L 321919064J 321919064P  
+251 919 064 251 919 253 321 919 064  
+251919064 251919253 321919064
